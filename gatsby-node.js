@@ -9,7 +9,7 @@ const redirects = [
     statusCode: 302
   },
   {
-    fromPath: '/test-trailing-slash/',
+    path: '/test-trailing-slash/',
     toPath: '/second-test-slash/',
     statusCode: 302
   }
@@ -28,10 +28,10 @@ exports.createPages = async ({ actions }) => {
     // Redirect paths must start with a slash, so it is added if needed.
     const settings = {
       redirectInBrowser: false,
-      fromPath: redirect_source.path.startsWith('/')
-        ? redirect_source.path
-        : `/${redirect_source.path}`,
-      toPath: toPath.startsWith('/') ? redirectPrefix + toPath : `${redirectPrefix}/${toPath}`,
+      fromPath: node.path.startsWith('/')
+        ? node.path
+        : `/${node.path}`,
+      toPath: node.toPath.startsWith('/') ? redirectPrefix + node.toPath : `${redirectPrefix}/${node.toPath}`,
     };
 
     createRedirect(settings);
