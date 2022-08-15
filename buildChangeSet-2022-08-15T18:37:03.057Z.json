@@ -1,0 +1,498 @@
+{
+    "isPartialBuild": false,
+    "created": [
+        {
+            "path": "/index.html",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/index.html",
+            "ssrType": null,
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=0, must-revalidate"
+            ],
+            "sha256": "063f508902a578f95105d98049703b74",
+            "md5": "063f508902a578f95105d98049703b74",
+            "sha1": "063f508902a578f95105d98049703b74"
+        },
+        {
+            "path": "/page-data/index/page-data.json",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/page-data/index/page-data.json",
+            "ssrType": null,
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=0, must-revalidate"
+            ],
+            "sha256": "2e1e6458af7df8d89a1f91a5cddb3167",
+            "md5": "2e1e6458af7df8d89a1f91a5cddb3167",
+            "sha1": "2e1e6458af7df8d89a1f91a5cddb3167"
+        },
+        {
+            "path": "/404.html",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/404.html",
+            "ssrType": null,
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "4571f03f2aeaf63bd1c9f0cf0434f134",
+            "md5": "4571f03f2aeaf63bd1c9f0cf0434f134",
+            "sha1": "4571f03f2aeaf63bd1c9f0cf0434f134"
+        },
+        {
+            "path": "/page-data/404.html/page-data.json",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/page-data/404.html/page-data.json",
+            "ssrType": null,
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=0, must-revalidate"
+            ],
+            "sha256": "73b53c376c0c6df9ec96677d201cf94b",
+            "md5": "73b53c376c0c6df9ec96677d201cf94b",
+            "sha1": "73b53c376c0c6df9ec96677d201cf94b"
+        },
+        {
+            "path": "/404/index.html",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/404/index.html",
+            "ssrType": null,
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=0, must-revalidate"
+            ],
+            "sha256": "e4988b307d6728a92ee58e528d9cfe87",
+            "md5": "e4988b307d6728a92ee58e528d9cfe87",
+            "sha1": "e4988b307d6728a92ee58e528d9cfe87"
+        },
+        {
+            "path": "/page-data/404/page-data.json",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/page-data/404/page-data.json",
+            "ssrType": null,
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=0, must-revalidate"
+            ],
+            "sha256": "517e1f8ce5610edb94d7dea4bede4428",
+            "md5": "517e1f8ce5610edb94d7dea4bede4428",
+            "sha1": "517e1f8ce5610edb94d7dea4bede4428"
+        },
+        {
+            "path": "/~partytown/debug/partytown-atomics.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/debug/partytown-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "13dea3d2ec228ecdcb84811b8d0efa1a",
+            "md5": "13dea3d2ec228ecdcb84811b8d0efa1a",
+            "sha1": "13dea3d2ec228ecdcb84811b8d0efa1a"
+        },
+        {
+            "path": "/~partytown/debug/partytown-media.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/debug/partytown-media.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "589a303c3e37b49baabb07a3b5388a04",
+            "md5": "589a303c3e37b49baabb07a3b5388a04",
+            "sha1": "589a303c3e37b49baabb07a3b5388a04"
+        },
+        {
+            "path": "/~partytown/debug/partytown-sandbox-sw.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/debug/partytown-sandbox-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "3d58ee95a277c3b7113b74047c05480d",
+            "md5": "3d58ee95a277c3b7113b74047c05480d",
+            "sha1": "3d58ee95a277c3b7113b74047c05480d"
+        },
+        {
+            "path": "/~partytown/debug/partytown-sw.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/debug/partytown-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "44a261f81c0616401021af349e1e85fb",
+            "md5": "44a261f81c0616401021af349e1e85fb",
+            "sha1": "44a261f81c0616401021af349e1e85fb"
+        },
+        {
+            "path": "/~partytown/debug/partytown-ww-atomics.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/debug/partytown-ww-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "e7b64e889e233cb439e273164b96f63b",
+            "md5": "e7b64e889e233cb439e273164b96f63b",
+            "sha1": "e7b64e889e233cb439e273164b96f63b"
+        },
+        {
+            "path": "/~partytown/debug/partytown-ww-sw.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/debug/partytown-ww-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "ea8c3ac708bf768ba2513010cac84d23",
+            "md5": "ea8c3ac708bf768ba2513010cac84d23",
+            "sha1": "ea8c3ac708bf768ba2513010cac84d23"
+        },
+        {
+            "path": "/~partytown/debug/partytown.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/debug/partytown.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "8352322f059cee000f6fbe9a2ee39579",
+            "md5": "8352322f059cee000f6fbe9a2ee39579",
+            "sha1": "8352322f059cee000f6fbe9a2ee39579"
+        },
+        {
+            "path": "/~partytown/partytown-atomics.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/partytown-atomics.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "505b66f2dd45b8ef1e3f428e3f415326",
+            "md5": "505b66f2dd45b8ef1e3f428e3f415326",
+            "sha1": "505b66f2dd45b8ef1e3f428e3f415326"
+        },
+        {
+            "path": "/~partytown/partytown-media.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/partytown-media.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "7208c6918538d1aaf3dd2094f9feb84b",
+            "md5": "7208c6918538d1aaf3dd2094f9feb84b",
+            "sha1": "7208c6918538d1aaf3dd2094f9feb84b"
+        },
+        {
+            "path": "/~partytown/partytown-sw.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/partytown-sw.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "37161d33ed7f57bce6d8e22bb854b1ac",
+            "md5": "37161d33ed7f57bce6d8e22bb854b1ac",
+            "sha1": "37161d33ed7f57bce6d8e22bb854b1ac"
+        },
+        {
+            "path": "/~partytown/partytown.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/~partytown/partytown.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "2773fc4246c14f627c85c532680bfb41",
+            "md5": "2773fc4246c14f627c85c532680bfb41",
+            "sha1": "2773fc4246c14f627c85c532680bfb41"
+        },
+        {
+            "path": "/app-614f84b02e72d4f4b02a.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/app-614f84b02e72d4f4b02a.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "2f7a49ab45d66bd51d3e2521b9a653f0",
+            "md5": "2f7a49ab45d66bd51d3e2521b9a653f0",
+            "sha1": "2f7a49ab45d66bd51d3e2521b9a653f0"
+        },
+        {
+            "path": "/app-614f84b02e72d4f4b02a.js.map",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/app-614f84b02e72d4f4b02a.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "2ea8d3f54ef837d22a0b314415aff75b",
+            "md5": "2ea8d3f54ef837d22a0b314415aff75b",
+            "sha1": "2ea8d3f54ef837d22a0b314415aff75b"
+        },
+        {
+            "path": "/assets-manifest.json",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/assets-manifest.json",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "cea77a12dd7305015b3a9906c87f71aa",
+            "md5": "cea77a12dd7305015b3a9906c87f71aa",
+            "sha1": "cea77a12dd7305015b3a9906c87f71aa"
+        },
+        {
+            "path": "/chunk-map.json",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/chunk-map.json",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "abaaf572bfa591387ed3e0bde91c0f69",
+            "md5": "abaaf572bfa591387ed3e0bde91c0f69",
+            "sha1": "abaaf572bfa591387ed3e0bde91c0f69"
+        },
+        {
+            "path": "/component---src-pages-404-js-2df9fff1ccb2a9989b63.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/component---src-pages-404-js-2df9fff1ccb2a9989b63.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "ef3771f5fd521470d9f7de2885aec75d",
+            "md5": "ef3771f5fd521470d9f7de2885aec75d",
+            "sha1": "ef3771f5fd521470d9f7de2885aec75d"
+        },
+        {
+            "path": "/component---src-pages-404-js-2df9fff1ccb2a9989b63.js.map",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/component---src-pages-404-js-2df9fff1ccb2a9989b63.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "7f2324b69c318520625c07a6d0d7ac69",
+            "md5": "7f2324b69c318520625c07a6d0d7ac69",
+            "sha1": "7f2324b69c318520625c07a6d0d7ac69"
+        },
+        {
+            "path": "/component---src-pages-index-js-26a73ed8934921b9498e.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/component---src-pages-index-js-26a73ed8934921b9498e.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "b1668b46fe33d6bc0e8638f2ef1b1505",
+            "md5": "b1668b46fe33d6bc0e8638f2ef1b1505",
+            "sha1": "b1668b46fe33d6bc0e8638f2ef1b1505"
+        },
+        {
+            "path": "/component---src-pages-index-js-26a73ed8934921b9498e.js.map",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/component---src-pages-index-js-26a73ed8934921b9498e.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "e144f02ddf7585f7c4da152a81f687d5",
+            "md5": "e144f02ddf7585f7c4da152a81f687d5",
+            "sha1": "e144f02ddf7585f7c4da152a81f687d5"
+        },
+        {
+            "path": "/framework-1d7d2e0449200b35383c.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/framework-1d7d2e0449200b35383c.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "61da44e958a30777aff859d0696219dc",
+            "md5": "61da44e958a30777aff859d0696219dc",
+            "sha1": "61da44e958a30777aff859d0696219dc"
+        },
+        {
+            "path": "/framework-1d7d2e0449200b35383c.js.LICENSE.txt",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/framework-1d7d2e0449200b35383c.js.LICENSE.txt",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "60f6bf9e100e456690e9ab6c9a37bfc2",
+            "md5": "60f6bf9e100e456690e9ab6c9a37bfc2",
+            "sha1": "60f6bf9e100e456690e9ab6c9a37bfc2"
+        },
+        {
+            "path": "/framework-1d7d2e0449200b35383c.js.map",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/framework-1d7d2e0449200b35383c.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "24e26ddf8545a6396e3fdca13f6c8bd4",
+            "md5": "24e26ddf8545a6396e3fdca13f6c8bd4",
+            "sha1": "24e26ddf8545a6396e3fdca13f6c8bd4"
+        },
+        {
+            "path": "/page-data/app-data.json",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/page-data/app-data.json",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=0, must-revalidate"
+            ],
+            "sha256": "a022ed63464124fb64bcde2f0a4ad01f",
+            "md5": "a022ed63464124fb64bcde2f0a4ad01f",
+            "sha1": "a022ed63464124fb64bcde2f0a4ad01f"
+        },
+        {
+            "path": "/polyfill-4fb94644c751916fdb25.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/polyfill-4fb94644c751916fdb25.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "d64bf97fefd8c0c2852171538ffaa55b",
+            "md5": "d64bf97fefd8c0c2852171538ffaa55b",
+            "sha1": "d64bf97fefd8c0c2852171538ffaa55b"
+        },
+        {
+            "path": "/polyfill-4fb94644c751916fdb25.js.map",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/polyfill-4fb94644c751916fdb25.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "064e5be23320a9e7a461c0a22de9bee6",
+            "md5": "064e5be23320a9e7a461c0a22de9bee6",
+            "sha1": "064e5be23320a9e7a461c0a22de9bee6"
+        },
+        {
+            "path": "/webpack-runtime-6ae6825f8fefb0dcda9f.js",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/webpack-runtime-6ae6825f8fefb0dcda9f.js",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY",
+                "cache-control: public, max-age=31536000, immutable"
+            ],
+            "sha256": "d122a572e87b506b3d6cb1eae5d35520",
+            "md5": "d122a572e87b506b3d6cb1eae5d35520",
+            "sha1": "d122a572e87b506b3d6cb1eae5d35520"
+        },
+        {
+            "path": "/webpack-runtime-6ae6825f8fefb0dcda9f.js.map",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/webpack-runtime-6ae6825f8fefb0dcda9f.js.map",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "66b0e1101a591525cd9a9e3d523eabc2",
+            "md5": "66b0e1101a591525cd9a9e3d523eabc2",
+            "sha1": "66b0e1101a591525cd9a9e3d523eabc2"
+        },
+        {
+            "path": "/webpack.stats.json",
+            "filePath": "/Users/katherinebeck/Gatsby/cs/psu-redirect-test/public/webpack.stats.json",
+            "headers": [
+                "x-xss-protection: 1; mode=block",
+                "x-content-type-options: nosniff",
+                "referrer-policy: same-origin",
+                "x-frame-options: DENY"
+            ],
+            "sha256": "9060795a3e24ccdeb559f351048ef014",
+            "md5": "9060795a3e24ccdeb559f351048ef014",
+            "sha1": "9060795a3e24ccdeb559f351048ef014"
+        },
+        {
+            "path": "/test",
+            "toPath": "https://www.psu.edu/some-test",
+            "status": 302,
+            "ignoreCase": true,
+            "sha256": "",
+            "md5": "",
+            "sha1": ""
+        },
+        {
+            "path": "/test-trailing-slash",
+            "toPath": "https://www.psu.edu/second-test-slash/",
+            "status": 302,
+            "ignoreCase": true,
+            "sha256": "",
+            "md5": "",
+            "sha1": ""
+        }
+    ],
+    "updated": [],
+    "deleted": [],
+    "requiresFullDeploy": true,
+    "routeCounts": {
+        "ssgCount": 36,
+        "ssrCount": 0,
+        "dsgCount": 0,
+        "functionCount": 0,
+        "paths": {
+            "ssgPaths": {},
+            "ssrPaths": {},
+            "dsgPaths": {},
+            "functionPaths": {}
+        }
+    }
+}
