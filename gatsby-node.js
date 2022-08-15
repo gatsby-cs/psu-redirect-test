@@ -18,6 +18,7 @@ const redirects = [
 exports.createPages = async ({ actions }) => {
   const { createRedirect } = actions;
 
+  let redirectPrefix = process.env.REDIRECT_PREFIX;
   // unless we are in preview, then unset.
   if (process.env.GATSBY_IS_PREVIEW === 'true') {
     redirectPrefix = '';
@@ -30,9 +31,7 @@ exports.createPages = async ({ actions }) => {
       fromPath: node.path.startsWith('/')
         ? node.path
         : `/${node.path}`,
-      toPath: node.toPath.startsWith('/')
-      ? node.toPath
-      : `/${node.toPath}`,
+      toPath: node.toPath.startsWith('/') ? redirectPrefix + node.toPath : `${redirectPrefix}/${node.toPath}`,
     };
 
     createRedirect(settings);
